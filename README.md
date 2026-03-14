@@ -17,5 +17,13 @@ So, I’ve been messing around with NFC tech lately. This repo is basically the 
 - Clone the repository (or download the kicad folder). Open it. Modify the silkscreen to your likings. I used Canva. Then export gerber files. And Get it manufactured (JLCPCB.PCBWAY,etc)
 - Dont forget to post yours online!
 
+## Bill of Material
+| Name | Quanity | Links |
+| --- | --- | --- | 
+| NT3H1101 | x1 | [LCSC](https://www.lcsc.com/product-image/C73156.html) |
+| 220nF Capacitor (SMD) |  X1 | [LCSC](https://www.lcsc.com/product-detail/C107186.html) | 
+| A SMD LED | x1 | [LCSC](https://www.lcsc.com/product-detail/C965799.html) | 
+| 47 ohms ressistor SMD | x1 | [LCSC](https://www.lcsc.com/product-detail/C25118.html) |
 
-
+**OR**
+You can buy x2 fully assembled NFC cards for **USD $38.00** on JLC PCB
